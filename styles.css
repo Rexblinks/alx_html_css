@@ -28,3 +28,47 @@ header, footer {
     background-color: #f0f0f0;
     text-align: center;
 }
+/* General background and font */
+body {
+    background-color: #f9f9f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background-color: #005f73;
+    color: white;
+}
+
+/* Footer styles */
+footer {
+    background-color: #0a9396;
+    color: white;
+}
+
+/* Style logo */
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* Article custom styles */
+article {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+/* Sidebar (aside) */
+aside {
+    background-color: #e9ecef;
+    border-left: 3px solid #0077b6;
+}
+
+/* Optional hover effect */
+a:hover {
+    color: #ee9b00;
+}
