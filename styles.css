@@ -3,6 +3,9 @@ body {
     flex-direction: column;
     height: 100vh;
     margin: 0;
+    body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
 }
 
 main {
@@ -27,6 +30,7 @@ header, footer {
     padding: 20px;
     background-color: #f0f0f0;
     text-align: center;
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
 }
 /* General background and font */
 body {
